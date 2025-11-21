@@ -1,1 +1,0 @@
-print("DONATION Record CRUD Manager")
